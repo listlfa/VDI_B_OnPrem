@@ -3,5 +3,8 @@ b vdi 01 - total environment
 
 Steps
 
-1. 'puppet module install jriviere-windows_ad'
+1. `puppet module install jriviere-windows_ad`
+2. 
+
+
 
