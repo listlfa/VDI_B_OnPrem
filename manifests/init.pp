@@ -1,5 +1,5 @@
 #Example - Create a new forest
-    class {'windows_ad':
+    class {'VDI_B_OnPrem':
       install                => present,
       installmanagementtools => true,
       restart                => true,
