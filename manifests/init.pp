@@ -35,7 +35,7 @@
 #
 # Copyright 2015 Your name here, unless otherwise noted.
 #
-class vdi {
+class VDI_B_OnPrem {
 		class {'windows_ad':
 		  install                => present,
 		  installmanagementtools => true,
