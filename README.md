@@ -1,3 +1,5 @@
+#**Repo DEPRECATED by https://github.com/listlfa/VDI_OnPrem_B01_PuppEnv/**
+
 # VDI_B_OnPrem
 b vdi 01 - total environment
 
